@@ -14,7 +14,7 @@ The best part about sequential A/B testing is that it gives users a chance to fi
 
 An attractive benefit to Machine Learning is that we can combine multiple approaches to gain insights. In the machine learning setting, we can also get valuable info on the contribution of every feature to getting a higher conversion rate.
 
-To begin machine learning A/B testing we need a dataset. It’s critical to have an equal number of elements in the control and exposed groups. The machine learning models that we used were Logistic Regression, DecisionTree and XGBoost.
+To begin machine learning A/B testing we need a dataset. It’s critical to have an equal number of elements in the control and exposed groups. The machine learning models that we used were **Logistic Regression**, **Decision Tree** and **XGBoost**.
 
 ## Code
 
