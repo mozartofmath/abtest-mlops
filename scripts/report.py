@@ -1,5 +1,9 @@
+import mlflow
+df = mlflow.search_runs()
+print(len(df))
+
 with open('results.txt', 'w') as result:
-      result.write('Logistic Regretion\n')
+      result.write('Logistic Regression\n')
       result.write(f'Model Accuracy : 54.21 %\n')
 
       result.write('\n')
